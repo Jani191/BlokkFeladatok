@@ -1,0 +1,32 @@
+ul{width: 50%;
+    height: 2cm;
+    padding: 1cm 0 0 0;
+    border:20px dotted green ;
+    margin:auto;
+
+
+}
+li{background-color: lightseagreen;
+    height: 1cm;
+    padding: 3mm;
+    list-style: none;
+    margin: auto;
+
+
+}
+li:nth-child(1){position:absolute;
+    left: 85mm;
+
+}
+li:nth-child(2){position:absolute;
+    left: 107mm;
+    
+}
+li:nth-child(3){position:absolute;
+
+    left: 127mm;
+}
+li:nth-child(4){position:absolute;
+
+    left: 147mm;
+}

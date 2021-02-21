@@ -1,0 +1,26 @@
+#külső{background-color: red;
+    width: 12cm;
+    height: 12cm;
+    position: absolute;
+    top:0cm ;
+
+
+}
+#középső{background-color: green ;
+    width: 8cm;
+    height:8cm ;
+    position: absolute;
+    top: 20mm;
+    left: 20mm;
+
+
+}
+#belső{background-color: blue;
+    width: 4cm;
+    height: 4cm;
+    position: absolute;
+    top: 40mm;
+    left: 40mm;
+
+
+}
